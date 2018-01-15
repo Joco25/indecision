@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\joco\bin\yarn.js init
+
+PATH: 
+  C:\Users\joco\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\joco\bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.0.2\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.0.2\bin;C:\ProgramData\Oracle\Java\javapath;C:\Python27;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Haskell Platform\8.0.2\mingw\bin;C:\Users\joco\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Skype\Phone;C:\Program Files\Git\cmd;C:\Program Files\Sublime Text 3;C:\xampp\php;C:\xampp71\php;C:\HashiCorp\Vagrant\bin;C:\Users\joco\bin;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit;C:\Program Files (x86)\OpenSSH\bin;C:\Program Files\PuTTY;C:\Program Files\nodejs;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.3.3\bin;C:\Users\joco\AppData\Roaming\cabal\bin;C:\Users\joco\AppData\Roaming\local\bin;C:\Users\joco\AppData\Local\Programs\Python\Python36\Scripts;C:\Users\joco\AppData\Local\Programs\Python\Python36;C:\Users\joco\AppData\Local\atom\bin;C:\Users\joco\AppData\Roaming\Composer\vendor\bin;C:\Users\joco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Heroku\bin;C:\Program Files (x86)\Graphviz2.38\bin;C:\mysql-connector-java;C:\Users\joco\AppData\Local\Yarn\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Android\sdk\platform-tools;C:\Users\joco\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  0.27.5
+
+Node version: 
+  9.3.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\joco\lib\yarn-cli.js:81327:59)
+      at Object.<anonymous> (C:\Users\joco\lib\yarn-cli.js:76832:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\joco\lib\yarn-cli.js:91:30)
+      at C:\Users\joco\lib\yarn-cli.js:102:13
+      at <anonymous>
